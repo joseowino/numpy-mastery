@@ -1,0 +1,8 @@
+name: ex00
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - numpy
+  - jupyterlab
+prefix: /home/joseowino/miniconda3/envs/ex00
